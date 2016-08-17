@@ -1,4 +1,3 @@
-layout_spectrum: 0.9351981575600803
 typography_spectrum: 0.6866068206727505
 color:
   brandStrength: 0.6504496089182794
@@ -6,9 +5,11 @@ color:
   saturation: 0.5887085432186723
   rhythmicContrast: 0.40241804043762386
   brandColors:
-    - '#010101'
-    - '#F6C900'
-    - '#372000'
-    - '#7B6600'
-    - '#999768'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.9351981575600803
 name: ROCK SOLID GROUP
+title: ROCK SOLID MARBELLA

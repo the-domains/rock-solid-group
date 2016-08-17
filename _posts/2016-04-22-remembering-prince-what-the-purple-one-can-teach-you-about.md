@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T20:11:44.371Z'
+datePublished: '2016-08-17T20:16:23.026Z'
 sourcePath: >-
   _posts/2016-04-22-remembering-prince-what-the-purple-one-can-teach-you-about.md
 inFeed: true
@@ -37,7 +37,8 @@ author:
   - name: Linda Lacina
     url: 'https://www.entrepreneur.com/author/linda-lacina'
     avatar: {}
-dateModified: '2016-08-17T20:11:42.249Z'
+via: {}
+dateModified: '2016-08-17T20:16:20.571Z'
 title: 'Remembering Prince: What The Purple One Can Teach You About Creativity'
 app_links: []
 publisher:
@@ -52,10 +53,9 @@ description: >-
   39 albums, creating classics such as Purple Rain and Little Red Corvette.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Remembering Prince: What The Purple One Can Teach You About Creativity</h1><p>Join Entrepreneur and today's most influential business innovators in Denver, May 4. Register Now " Prince, a pioneering musician and creative, died today at 57. This game-changing artist merged his special take on funk and rock into 39 albums, creating classics such as Purple Rain and Little Red Corvette.</p><img src="https://assets.entrepreneur.com/content/3x2/1300/20160421201929-prince-artist-singer.jpeg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/880e978d-5adc-4c6f-904e-08c8aa9c0242.jpg)

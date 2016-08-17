@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-17T20:16:23.026Z'
+datePublished: '2016-08-17T20:22:59.999Z'
 sourcePath: >-
   _posts/2016-04-22-remembering-prince-what-the-purple-one-can-teach-you-about.md
 inFeed: true
-isBasedOnUrl: 'https://www.entrepreneur.com/article/274499'
-hasPage: false
+hasPage: true
 keywords:
   - prince
   - album
@@ -38,7 +37,7 @@ author:
     url: 'https://www.entrepreneur.com/author/linda-lacina'
     avatar: {}
 via: {}
-dateModified: '2016-08-17T20:16:20.571Z'
+dateModified: '2016-08-17T20:22:57.585Z'
 title: 'Remembering Prince: What The Purple One Can Teach You About Creativity'
 app_links: []
 publisher:
@@ -54,6 +53,7 @@ description: >-
 inLanguage: en
 inNav: false
 starred: false
+url: remembering-prince-what-the-purple-one-can-teach-you-about/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 

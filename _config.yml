@@ -1,4 +1,3 @@
-layout_spectrum: 0.9351981575600803
 typography_spectrum: 0.6866068206727505
 color:
   brandStrength: 0.6504496089182794
@@ -11,4 +10,11 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.9351981575600803
 name: ROCK SOLID GROUP
+navigation:
+  - name: Test
+    url: 'https://www.atp-autoteile.de/product/0/43523/details'
+    type: external
+title: ROCK SOLID MARBELLA
+description: trust in knowledge
